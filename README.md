@@ -16,12 +16,13 @@
 
 <p>
 I'm [Rahul Sharma] , web developer // Student , I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.In present time i am seeking some good to stuff's to enhance my technological skills. Hope by contributing in open-source will enhance my practical knowledge of working enviorment and exposure to developer side.
-<h1> what i am looking here? </h1>
+
+<h1> What i am looking here? </h1>
 <i>
 <b> I am looking for cool streak features which can add up value to my knowledge of projects or features on which whole world is currently working for. taking these kind of valuable knowledge i could contribute in  not to just split features or working on some of the features rather than building, i would make my efforts in such 
 a manner to make it integratable and optimizable for evryone could use it.</b>
 </i>
-<h2>how you can add up?</h2>
+<h2>How you can add up?</h2>
 <i>
 <b> It is a freak out question where anybody can have their set of answers.but in my sense i could advice you to please add to my project either it is critics about or
 supporting hand which could create a whole lot to seek of knowledge, practice and collabration for me.</b>
@@ -45,9 +46,7 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 - ⚡ Fun fact **I can work without Break**
 
 <br>
-
 - 📫 How to reach me:
-
 </br>
 <br>
    <a href="https://www.linkedin.com/in/rahul-sharma-58b213163/">
