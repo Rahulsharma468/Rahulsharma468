@@ -27,6 +27,7 @@ a manner to make it integratable and optimizable for evryone could use it.</b>
 supporting hand which could create a whole lot to seek of knowledge, practice and collabration for me.</b>
 <br>**Talking about Personal Stuffs:**</br>
 <h3> Details :::>>></h3>
+
 - 🔭 I’m currently studying on **B.E Computer Science**
 
 - 🌱 I’m currently learning at **NMAM Institute Of Techonology**
@@ -40,6 +41,7 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 - 📫 My Email is **sharmarahul1729@gmail.com**
 
 - ⚡ Fun fact **I can work without Break**
+- 
 <br>
 - 📫 How to reach me:
 </br>
