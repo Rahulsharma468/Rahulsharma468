@@ -25,6 +25,8 @@ a manner to make it integratable and optimizable for evryone could use it.</b>
 <i>
 <b> It is a freak out question where anybody can have their set of answers.but in my sense i could advice you to please add to my project either it is critics about or
 supporting hand which could create a whole lot to seek of knowledge, practice and collabration for me.</b>
+
+
 <br>**Talking about Personal Stuffs:**</br>
 <h3> Details :::>>></h3>
 
@@ -43,7 +45,9 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 - ⚡ Fun fact **I can work without Break**
 
 <br>
+
 - 📫 How to reach me:
+
 </br>
 <br>
    <a href="https://www.linkedin.com/in/rahul-sharma-58b213163/">
@@ -55,8 +59,10 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 
 </br>
  </p>
- <br>
-  **LANGUAGES AND TOOLS** 
+ <be>
+
+**LANGUAGES AND TOOLS** 
+
 <code><img height="20" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166911.jpg"></code>
 <code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-html-file-document-icon-png-image_4187757.jpg"></code>
 <code><img height="20" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-css-file-document-icon-png-image_4187768.jpg"></code>
