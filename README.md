@@ -32,18 +32,13 @@
 - 📫 How to reach me:
 </br>
 <br>
-<a href="https://discord.com/channels/@me">
-  <img align="left" alt="aaditya's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+   <a href="https://www.linkedin.com/in/rahul-sharma-58b213163/">
+  <img align="left" alt="rahul-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
-    <a href="https://www.linkedin.com/in/aaditya-singh-9287181a2/">
-  <img align="left" alt="aaditya-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+<a href="https://www.instagram.com/sharmarahul1729/">
+  <img align="left" alt="rahul-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-<a href="https://www.instagram.com/aaditya4427/">
-  <img align="left" alt="aaditya-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-</a>
-<a href="https://app.slack.com/client/T01BRE73QRE/D01QNTZCWLT/user_profile/U01RCGWG1K2">
-  <img align="left" alt="aaditya-instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFprRJ230odCgHV6wB3fEUzwVzZnO92PyTNw&usqp=CAU">
-</a>
+
 </br>
  </p>
  <br>
