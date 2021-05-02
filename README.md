@@ -44,7 +44,7 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 - 📫 My Email is **sharmarahul1729@gmail.com**
 
 - ⚡ Fun fact **I can work without Break**
-<hr>
+
 <br>
 - 📫 How to reach me:
 </br>
