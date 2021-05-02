@@ -57,7 +57,7 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 <img align="left" alt="rahul-instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 
-<br />
+<br>
 
 **LANGUAGES AND TOOLS** 
 
@@ -69,6 +69,6 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-
+</br>
 </body>
 </html>
