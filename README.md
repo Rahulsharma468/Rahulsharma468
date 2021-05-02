@@ -48,14 +48,16 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 <br>
 - 📫 How to reach me:
 </br>
-<br>
+
 <a href="https://www.linkedin.com/in/rahul-sharma-58b213163/">
 <img align="left" alt="rahul-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
+
 <a href="https://www.instagram.com/sharmarahul1729/">
 <img align="left" alt="rahul-instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-</br>
+
+<br />
 
 **LANGUAGES AND TOOLS** 
 
