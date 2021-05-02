@@ -50,10 +50,10 @@ supporting hand which could create a whole lot to seek of knowledge, practice an
 </br>
 <br>
    <a href="https://www.linkedin.com/in/rahul-sharma-58b213163/">
-  <img align="left" alt="rahul-linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+  <img align="left" alt="rahul-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>
 <a href="https://www.instagram.com/sharmarahul1729/">
-  <img align="left" alt="rahul-instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+  <img align="left" alt="rahul-instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
 
 </br>
