@@ -1,7 +1,5 @@
 # Web-Developer
 ## Hey Folks
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulsharma468&theme=monokai" alt="Rahulsharma468" /></a> </p>
 <html>
   <body>
     </br>
