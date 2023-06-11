@@ -1,12 +1,8 @@
 # Web-Developer
 ## Hey Folks
-<img src="https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13" width="900">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahulsharma468&theme=monokai" alt="Rahulsharma468" /></a> </p>
 <html>
-  <head>
-    <br>
-    “A designer knows he has achieved perfection not when there is nothing left to add, but when there is nothing left to take away.”
-    </br>
-  </head>
   <body>
     </br>
     <h1 align="center">Hi 👋, I'm Rahul</h1>
