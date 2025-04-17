@@ -1,89 +1,67 @@
+# Web-Developer
+## Hey Folks
 <html>
-  <body style="font-family: Arial, sans-serif; line-height: 1.6;">
-    <h1 align="center">Hi 👋, I'm <span style="color:#007ACC;">Rahul Sharma</span></h1>
-    <h3 align="center">🚀 Passionate about Data Structures | Full Stack Web Development | Open Source</h3>
+  <body>
+    </br>
+    <h1 align="center">Hi 👋, I'm Rahul</h1>
+<h3 align="center">My Main interest lies on Data Structures | Web Development</h3>
 
-    <hr>
 
-    <p align="center">
-      I'm a developer and student who loves solving real-world problems using code. <br />
-      Currently pursuing B.E in Computer Science at NMAM Institute of Technology. <br />
-      Enthusiastic about building impactful, scalable, and optimized web applications. <br />
-      I’m also curious about new technologies and how they shape the world around us.
-    </p>
 
-    <h2>🌟 What Am I Looking For?</h2>
-    <p>
-      I’m looking for exciting, real-world features and projects that are not just about coding tasks,
-      but about building **robust, optimized, and integratable** solutions that help people and enhance skills.
-      Open-source collaboration excites me — I want to learn the *practical side* of working with developers around the world.
-    </p>
+<p>
+I'm [Rahul Sharma] , web developer // Student , I enjoy playing sports,travelling and studing new stuffs which lead me to research in the real life problems.Also keep keen interest on what is going around the surrounding.In present time i am seeking some good to stuff's to enhance my technological skills. Hope by contributing in open-source will enhance my practical knowledge of working enviorment and exposure to developer side.
 
-    <h2>🤝 How Can You Add Value?</h2>
-    <p>
-      Whether it's **constructive criticism**, helpful suggestions, or **code contributions**, your input matters!
-      Let’s create a space for **learning**, **collaboration**, and **innovation** together.
-    </p>
+<h1> What i am looking here? </h1>
+<i>
+<b> I am looking for cool streak features which can add up value to my knowledge of projects or features on which whole world is currently working for. taking these kind of valuable knowledge i could contribute in  not to just split features or working on some of the features rather than building, i would make my efforts in such 
+a manner to make it integratable and optimizable for evryone could use it.</b>
+</i>
+<h2>How you can add up?</h2>
+<i>
+<b> It is a freak out question where anybody can have their set of answers.but in my sense i could advice you to please add to my project either it is critics about or
+supporting hand which could create a whole lot to seek of knowledge, practice and collabration for me.</b>
 
-    <hr>
 
-    <h2>📌 Personal Snapshot</h2>
-    <ul>
-      <li>🎓 Currently studying <b>B.E in Computer Science</b></li>
-      <li>🏫 Learning at <b>NMAM Institute Of Technology</b></li>
-      <li>👯 Open to collaborating on <b>Web Development Projects</b></li>
-      <li>🧠 Learning about <b>new technologies & trends</b></li>
-      <li>🧑‍💻 Ask me about <b>JavaScript, ReactJS, Node.js</b></li>
-      <li>📫 Reach me at: <b>sharmarahul1729@gmail.com</b></li>
-    </ul>
+<br>**Talking about Personal Stuffs:**</br>
+<h3> Details :::>>></h3>
 
-    <hr>
+- 🔭 I’m currently studying on **B.E Computer Science**
 
-    <h2>🌐 Connect With Me</h2>
-    <p>
-      <a href="https://www.linkedin.com/in/rahul-sharma-58b213163/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-rahul--sharma-blue?logo=linkedin&style=for-the-badge" />
-      </a>
-      <a href="https://www.instagram.com/sharmarahul1729/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-@sharmarahul1729-E4405F?logo=instagram&style=for-the-badge" />
-      </a>
-    </p>
+- 🌱 I’m currently learning at **NMAM Institute Of Techonology**
 
-    <hr>
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
-    <h2>🛠️ Tech Stack & Tools</h2>
-    <p>
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-      <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-    </p>
+- 🤝 I’m looking for help with  **learning new updates in technology**
 
-    <hr>
+- 👨‍💻 Ask me about **Javascript , NodeJS , ReactJS**
 
-    <h2>📊 GitHub Stats</h2>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rahul1729&show_icons=true&theme=radical" />
-      <br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul1729&theme=radical" />
-    </p>
+- 📫 My Email is **sharmarahul1729@gmail.com**
 
-    <hr>
+<br>
+- 📫 How to reach me:
+</br>
 
-    <h2>🌱 Quote That Drives Me</h2>
-    <blockquote>
-      <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
-    </blockquote>
+<br>
+<a href="https://www.linkedin.com/in/rahul-sharma-58b213163/">
+<img align="left" alt="rahul-linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>
 
-    <p align="center">
-      🚀 Let’s build something amazing together!
-    </p>
-  </body>
+<a href="https://www.instagram.com/sharmarahul1729/">
+<img align="left" alt="rahul-instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+</a>
+</br >
+<br>
+
+**LANGUAGES AND TOOLS** 
+
+<code><img height="30" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-json-file-document-icon-png-image_4166911.jpg"></code>
+<code><img height="30" src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-html-file-document-icon-png-image_4166289.jpg"></code>
+<code><img height="30" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-css-file-document-icon-png-image_4187768.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+</br>
+</body>
 </html>
