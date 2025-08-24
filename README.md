@@ -37,9 +37,9 @@ Welcome to my GitHub space—where innovation meets imagination.
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rahulsharma468&theme=radical" alt="Productive Time" />
     </td>
-    <td>
+<!--     <td>
       <img src="https://github-profile-trophy.vercel.app/?username=Rahulsharma468&theme=radical&column=3&margin-w=15&margin-h=15" alt="Rahul's Trophies" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
